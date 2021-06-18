@@ -1,0 +1,17 @@
+/* .feel {
+  width: 400px;
+  height: 400px;
+  background-color: #16A085;
+} */
+
+.charts-pies {
+  display: flex;
+}
+
+.chart-line {
+  background-color: #1A4E64;
+}
+
+#chartContaineLine {
+  background-color: #1A4E64;
+}
